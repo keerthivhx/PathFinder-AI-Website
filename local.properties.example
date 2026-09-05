@@ -1,0 +1,8 @@
+# Example local properties / environment file for PathFinder AI
+# To configure Google Maps in local standalone Android Studio:
+# 1. Enable "Maps SDK for Android" in Google Cloud Console
+# 2. Add MAPS_API_KEY below or in your root .env file:
+# MAPS_API_KEY=AIzaSy_YOUR_GOOGLE_MAPS_API_KEY_HERE
+#
+# sdk.dir=/path/to/android/sdk
+MAPS_API_KEY=AIzaSy_YOUR_GOOGLE_MAPS_API_KEY_HERE

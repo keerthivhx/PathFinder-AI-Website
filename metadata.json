@@ -1,0 +1,9 @@
+{
+  "name": "PathFinder AI",
+  "description": "AI-Powered Indoor Navigation & Smart Wayfinding Platform with multi-floor vector mapping, A* routing, accessibility modes, and Gemini AI Assistant.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
