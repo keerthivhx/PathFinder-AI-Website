@@ -1,13 +1,11 @@
 {
-  "version": 2,
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
   "rewrites": [
     {
-      "source": "/api/(.*)",
-      "destination": "/backend/api/index.js"
-    },
-    {
       "source": "/(.*)",
-      "destination": "/backend/api/index.js"
+      "destination": "/index.html"
     }
   ]
 }
